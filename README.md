@@ -1,5 +1,11 @@
-## Hi there 👋
+## Not much about me
+Living at Saint-Peterspburg, Russia🇷🇺.
 
+Student of St. Petersburg Polytechnic University
+
+C++, Qt, Stl, Boost, Multiprogramming, Python, Linux, Git
+
+Like to drink coke and play games
 <!--
 **Dmitriy-NkV/Dmitriy-NkV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
