@@ -1,22 +1,16 @@
-## Not much about me
-Living at Saint-Peterspburg, Russia🇷🇺.
+# About me:
+I am a Back-End Developer from Russia.
 
-Student of St. Petersburg Polytechnic University
+- Student of St. Petersburg Polytechnic University.
+- In my free time, I learn new frameworks and play games.
+- How to reach me: <a href="https://t.me/Dmitriy_NkV">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
 
-C++, Qt, Stl, Boost, Multiprogramming, Python, Linux, Git
-
-Like to drink coke and play games
-<!--
-**Dmitriy-NkV/Dmitriy-NkV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My main stack:
+<div id="stack">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
+</div>
